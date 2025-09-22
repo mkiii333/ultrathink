@@ -1,0 +1,3 @@
+# 1. Executive Summary
+Spreesy is an AI-powered creator matching platform that uses the proprietary Spreesy Index™ to connect businesses with high-converting creators across every digital channel. The platform eliminates guesswork in creator partnerships by analyzing your business and identifying creators who actually drive sales—not just likes.
+Tagline: "Stop guessing channels. Start growing revenue."
